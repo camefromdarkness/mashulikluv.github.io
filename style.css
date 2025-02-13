@@ -25,21 +25,21 @@ body {
 
 .flover {
     margin-top: 50px;
-    height: 400px;
+    height: 30vh;
 }
 
 .heart {
-    height: 300px;
+    height: 25vh;
 }
 
 h2 {
     color: white;
-    font-size: 2em;
+    font-size: 4em;
 }
 
 p {
     color: white;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 
@@ -49,7 +49,7 @@ p {
     position: relative;
     justify-content: center;
     align-items: center;
-    height: 200px;
+    height: 20vh;
 }
 
 h1 {
